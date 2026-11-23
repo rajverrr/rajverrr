@@ -30,15 +30,19 @@
 ### 📊 GitHub & Coding Stats
 
 <p align="center">
-  <img height="180em" src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif" alt="Coding GIF" />
+  <img height="195" src="https://github-readme-stats-fast.vercel.app/api?username=rajverrr&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=rajverrr&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="195" src="https://streak-stats.demolab.com?user=rajverrr&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajverrr&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img height="165" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Meme" />
   &nbsp;&nbsp;
-  <img height="165em" src="https://streak-stats.demolab.com?user=rajverrr&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajverrr&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rajverrr&theme=radical&hide_border=true&area=true" alt="GitHub Activity Wave" />
 </p>
 
 ---
