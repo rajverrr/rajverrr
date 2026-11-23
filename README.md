@@ -1,19 +1,19 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Header Banner" />
+  <img src="https://raw.githubusercontent.com/rajverrr/rajverrr/main/assets/banner.gif" width="100%" alt="GTA Vice City Neon Battlestation Banner" />
 </div>
 
 <br/>
 
 <div align="center">
   <a href="https://github.com/rajverrr">
-    <img src="https://komarev.com/ghpvc/?username=rajverrr&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=rajverrr&label=Profile%20Views&color=ff3aa4&style=flat-square" alt="Profile Views" />
   </a>
 </div>
 
 <h1 align="center">Hi 👋, I'm Rajveer Singh</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=460&lines=Full+Stack+Engineer;WebRTC+%26+Real-Time+Systems;Open+Source+Contributor+%40+AsyncAPI+%26+OWASP;Passionate+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F0FF&center=true&vCenter=true&width=460&lines=Full+Stack+Engineer;WebRTC+%26+Real-Time+Systems;Open+Source+Contributor+%40+AsyncAPI+%26+OWASP;Passionate+Problem+Solver" alt="Typing SVG" />
 </div>
 
 <br/>
