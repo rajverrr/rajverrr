@@ -36,7 +36,7 @@
 </p>
 
 <p align="center">
-  <img height="165" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Meme" />
+  <img height="165" src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" alt="Hello There Meme" />
   &nbsp;&nbsp;
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajverrr&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
