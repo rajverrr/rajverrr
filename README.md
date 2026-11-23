@@ -30,15 +30,15 @@
 ### 📊 GitHub & Coding Stats
 
 <p align="center">
-  <img height="195" src="https://github-readme-stats-fast.vercel.app/api?username=rajverrr&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="180" src="https://media.giphy.com/media/11SIBu3s72Co8w/giphy.gif" alt="Joey - How You Doin?" />
   &nbsp;&nbsp;
-  <img height="195" src="https://streak-stats.demolab.com?user=rajverrr&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=rajverrr&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://media.giphy.com/media/11SIBu3s72Co8w/giphy.gif" alt="Joey - How You Doin?" />
-  &nbsp;&nbsp;
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajverrr&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  &nbsp;&nbsp;
+  <img height="165" src="https://streak-stats.demolab.com?user=rajverrr&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
