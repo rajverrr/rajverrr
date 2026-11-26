@@ -35,7 +35,7 @@
 <p align="center">
   <img height="180" src="https://media.giphy.com/media/11SIBu3s72Co8w/giphy.gif" alt="Joey - How You Doin?" />
   &nbsp;&nbsp;
-  <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=rajverrr&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&show=prs_merged" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=rajverrr&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&show=prs_merged&cache_seconds=1800&v=14" alt="GitHub Stats" />
 </p>
 
 <p align="center">
