@@ -8,19 +8,22 @@
   <a href="https://github.com/rajverrr">
     <img src="https://komarev.com/ghpvc/?username=rajverrr&label=Profile%20Views&color=ff3aa4&style=flat-square" alt="Profile Views" />
   </a>
+  <a href="https://github.com/pulls?q=is%3Apr+author%3Arajverrr+is%3Amerged">
+    <img src="https://img.shields.io/badge/Merged%20PRs-14-00F0FF?style=flat-square&logo=github" alt="Merged PRs: 14" />
+  </a>
 </div>
 
 <h1 align="center">Hi 👋, I'm Rajveer Singh</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F0FF&center=true&vCenter=true&width=460&lines=Full+Stack+Engineer;WebRTC+%26+Real-Time+Systems;Open+Source+Contributor+%40+AsyncAPI+%26+OWASP;Passionate+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F0FF&center=true&vCenter=true&width=460&lines=Full+Stack+Engineer;WebRTC+%26+Real-Time+Systems;Open+Source+%40+Floe%2C+OFF+%26+OWASP;Passionate+Problem+Solver" alt="Typing SVG" />
 </div>
 
 <br/>
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently actively contributing to **[AsyncAPI](https://github.com/asyncapi)** and **[OWASP](https://github.com/OWASP)** ecosystems.
+- 🔭 Currently actively contributing to **[Floe](https://github.com/jannskiee/floe)**, **[Open Food Facts](https://github.com/openfoodfacts)**, and **[OWASP](https://github.com/OWASP)** (**14 merged PRs** across open-source ecosystems).
 - 💻 Building performant full-stack applications with **Node.js, Express, PostgreSQL, React, Next.js, and WebSockets/WebRTC**.
 - 🛠️ Interested in real-time media synchronization, distributed architectures, and developer tooling.
 - ⚡ Fun fact: I love finding subtle edge-case bugs and submitting clean, surgical PRs that maintainers appreciate.
@@ -94,17 +97,17 @@
 
 ---
 
-### 🌐 Open Source Contributions
+### 🌐 Open Source Contributions (14 Merged PRs)
 
-- **[AsyncAPI](https://github.com/asyncapi)**:
-  - Fixed Cypress E2E test suite nesting issues to ensure complete link verification coverage across docs (`asyncapi/website#5941`).
-  - Isolated test fixtures and prevented filesystem mutation during index unit tests (`asyncapi/website#5925`).
-- **[OWASP Hunting](https://github.com/OWASP/OWASP-Hunting)**:
-  - Responsive tablet navigation: collapsed 240px sidebar into mobile dropdown below 1100px (`OWASP/OWASP-Hunting#131`).
-  - Section anchor links: added accessible, copyable `#` links to headings (`OWASP/OWASP-Hunting#130`).
-  - Print media stylesheets: enabled ink-saving high-contrast print layouts and PDF exports (`OWASP/OWASP-Hunting#129`).
-  - Search relevance: matched exact security acronyms (`xsrf`, `bola`) and reduced short-query fuzzy noise (`OWASP/OWASP-Hunting#121`).
-  - Theme state machine: implemented fallback for blocked localStorage environments (`OWASP/OWASP-Hunting#123`).
+- **[Floe (`jannskiee/floe`)](https://github.com/jannskiee/floe)** — 2 merged PRs:
+  - Restored focus to the `Show in folder` control after closing the renamed-files dialog (`#1016`).
+  - Skipped latency pings while the signaling WebSocket is disconnected (`#1013`).
+- **[Open Food Facts Explorer (`openfoodfacts/openfoodfacts-explorer`)](https://github.com/openfoodfacts/openfoodfacts-explorer)** — 2 merged PRs:
+  - Derived `twitter:domain` dynamically from the page URL instead of hardcoding (`#2220`).
+  - Added `start_url` and `scope` to the web app manifest for proper PWA installation (`#1762`).
+- **[OWASP Hunting (`OWASP/OWASP-Hunting`)](https://github.com/OWASP/OWASP-Hunting)** — 7 merged PRs (`#122`, `#114`, `#113`, `#112`, `#110`, `#109`, `#97`):
+  - Search UX, keyboard/accessibility improvements, layout responsiveness, and stability fixes.
+- **[`react-inp-blame`](https://github.com/adityareddy-dev/react-inp-blame)** & **[`raasta`](https://github.com/sharmavikas18/raasta)** — 3 merged PRs (`react-inp-blame#108`, `#107`, `raasta#1`).
 
 ---
 
