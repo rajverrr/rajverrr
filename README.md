@@ -9,7 +9,7 @@
     <img src="https://komarev.com/ghpvc/?username=rajverrr&label=Profile%20Views&color=ff3aa4&style=flat-square" alt="Profile Views" />
   </a>
   <a href="https://github.com/pulls?q=is%3Apr+author%3Arajverrr+is%3Amerged">
-    <img src="https://img.shields.io/badge/Merged%20PRs-14-00F0FF?style=flat-square&logo=github" alt="Merged PRs: 14" />
+    <img src="https://img.shields.io/badge/Merged%20PRs-19-00F0FF?style=flat-square&logo=github" alt="Merged PRs: 19" />
   </a>
 </div>
 
@@ -23,7 +23,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently actively contributing to **[Floe](https://github.com/jannskiee/floe)**, **[Open Food Facts](https://github.com/openfoodfacts)**, and **[OWASP](https://github.com/OWASP)** (**14 merged PRs** across open-source ecosystems).
+- 🔭 Currently actively contributing to **[Floe](https://github.com/jannskiee/floe)**, **[Open Food Facts](https://github.com/openfoodfacts)**, **[OWASP](https://github.com/OWASP)**, and **[DesignHub](https://github.com/yakew7/DesignHub)** (**19 merged PRs** across open-source ecosystems).
 - 💻 Building performant full-stack applications with **Node.js, Express, PostgreSQL, React, Next.js, and WebSockets/WebRTC**.
 - 🛠️ Interested in real-time media synchronization, distributed architectures, and developer tooling.
 - ⚡ Fun fact: I love finding subtle edge-case bugs and submitting clean, surgical PRs that maintainers appreciate.
@@ -35,7 +35,7 @@
 <p align="center">
   <img height="180" src="https://media.giphy.com/media/11SIBu3s72Co8w/giphy.gif" alt="Joey - How You Doin?" />
   &nbsp;&nbsp;
-  <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=rajverrr&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&show=prs_merged&cache_seconds=1800&v=14" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=rajverrr&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&show=prs_merged&cache_seconds=1800&v=19" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -97,7 +97,7 @@
 
 ---
 
-### 🌐 Open Source Contributions (14 Merged PRs)
+### 🌐 Open Source Contributions (19 Merged PRs)
 
 - **[Floe (`jannskiee/floe`)](https://github.com/jannskiee/floe)** — 2 merged PRs:
   - Restored focus to the `Show in folder` control after closing the renamed-files dialog (`#1016`).
@@ -105,8 +105,10 @@
 - **[Open Food Facts Explorer (`openfoodfacts/openfoodfacts-explorer`)](https://github.com/openfoodfacts/openfoodfacts-explorer)** — 2 merged PRs:
   - Derived `twitter:domain` dynamically from the page URL instead of hardcoding (`#2220`).
   - Added `start_url` and `scope` to the web app manifest for proper PWA installation (`#1762`).
-- **[OWASP Hunting (`OWASP/OWASP-Hunting`)](https://github.com/OWASP/OWASP-Hunting)** — 7 merged PRs (`#122`, `#114`, `#113`, `#112`, `#110`, `#109`, `#97`):
-  - Search UX, keyboard/accessibility improvements, layout responsiveness, and stability fixes.
+- **[OWASP Hunting (`OWASP/OWASP-Hunting`)](https://github.com/OWASP/OWASP-Hunting)** — 11 merged PRs (`#131`, `#129`, `#123`, `#122`, `#121`, `#114`, `#113`, `#112`, `#110`, `#109`, `#97`):
+  - Print media styles, tablet sidebar collapse, system theme preference, search acronym alias accuracy, keyboard/accessibility improvements, and workflow/docs fixes.
+- **[DesignHub (`yakew7/DesignHub`)](https://github.com/yakew7/DesignHub)** — 1 merged PR (`#625`):
+  - Extended `check:hardcoded` i18n verification to cover form props, array labels, and templates.
 - **[`react-inp-blame`](https://github.com/adityareddy-dev/react-inp-blame)** & **[`raasta`](https://github.com/sharmavikas18/raasta)** — 3 merged PRs (`react-inp-blame#108`, `#107`, `raasta#1`).
 
 ---
